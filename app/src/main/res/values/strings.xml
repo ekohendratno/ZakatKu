@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">ZakatKu</string>
+    <string name="app_name_desc">Aplikasi menghitung zakat</string>
+    <dimen name="list_horizontal_margin">14.0dip</dimen>
+    <dimen name="list_vertical_margin">14.0dip</dimen>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <string name="zakar_profesi_desc">Zakat profesi memang belum familiar dalam khazanah keilmuan Islam klasik. Maka dari itu,
+        hasil profesi dikategorikan sebagai jenis harta wajib zakat berdasarkan kias (analogi) atas kemiripan (syabbah) terhadap
+        karakteristik harta zakat yang telah ada, yakni:\n\n
+        (1) model memperoleh harta penghasilan (profesi) mirip dengan panen (hasil pertanian),
+        sehingga harta ini dapat dikiaskan pada zakat pertanian berdasarkan nisab (653 kg gabah kering giling atau setara dengan 522 kg beras) dan
+        waktu pengeluaran zakatnya (setiap kali panen),\n\n
+        (2) model harta yang diterima sebagai penghasilan berupa uang, sehingga jenis harta ini dapat
+        dikiaskan pada zakat harta (simpanan atau kekayaan) berdasarkan kadar zakat yang harus dibayarkan (2,5%).\n\n
+        Dengan demikian, apabila hasil profesi seseorang telah memenuhi ketentuan wajib zakat, ia berkewajiban menunaikan zakatnya.</string>
+    <string name="zakar_fitrah_desc">Zakat Fitrah ialah zakat diri yang diwajibkan atas diri setiap individu
+        lelaki dan perempuan muslim yang berkemampuan dengan syarat-syarat yang ditetapkan.
+        Kata Fitrah yang ada merujuk pada keadaan manusia saat baru diciptakan sehingga
+        dengan mengeluarkan zakat ini manusia dengan izin Allah akan kembali fitrah.\n\n
+        Besar zakat yang dikeluarkan menurut para ulama adalah sesuai penafsiran terhadap
+        hadits adalah sebesar satu sha\' (1 sha\'=4 mud, 1 mud=675 gr) atau kira-kira setara
+        dengan 3,5 liter atau 2.7 kg makanan pokok (tepung, kurma, gandum, aqith) atau yang
+        biasa dikonsumsi di daerah bersangkutan (Mazhab syafi\'i dan Maliki)\n\n
+        Zakat Fitrah dikeluarkan pada bulan Ramadan, paling lambat sebelum orang-orang
+        selesai menunaikan Salat Ied. Jika waktu penyerahan melewati batas ini maka
+        yang diserahkan tersebut tidak termasuk dalam kategori zakat melainkan sedekah biasa\n\n
+        Sebagai Informasi, Disini saya menggunakan pengukuran zakat fitrah mengunakan
+        ukuran 3,5 liter bahan pokok</string>
+    <string name="bayarfidyah_desc">Fidyah atau fidaa atau fida` adalah satu makna. Yang artinya, apabila dia memberikan
+        tebusan kepada seseorang, maka orang tersebut akan menyelamatkannya Di dalam kitab-kitab
+        fiqih, fidyah, dikenal dengan istilah "ith\'am", yang artinya memberi makan. Adapun
+        fidyah yang akan kita bahas di sini ialah, sesuatu yang harus diberikan kepada orang
+        miskin, berupa makanan, sebagai pengganti karena dia meninggalkan puasa.\n\n
+        Cara Pembayaran Fidyah:\n\n
+        Makna pembayaran fidyah adalah mengganti 1 hari puasa yang ditinggalkan dengan
+        memberi makan 1 orang miskin. Namun, model pembayarannya dapat diterapkan dengan 2 cara:\n\n
+        Memasak atau membuat makanan, kemudian mengundang orang miskin sejumlah hari-hari yang ditinggalkan
+        selama bulan Ramadhan.Memberikan kepada orang miskin berupa makanan yang belum dimasak.
+        Lebih sempurna lagi jika juga diberikan sesuatu untuk dijadikan lauk.Pemberian ini dapat
+        dilakukan sekaligus, misalnya membayar fidyah untuk 20 hari disalurkan kepada 20 orang
+        miskin dalam 1 waktu / 1 hari. Atau dapat pula diberikan hanya kepada 1 orang miskin sebanyak 20 hari.\n\n
+        Waktu Pembayaran Fidyah:\n\n
+        Seseorang dapat membayar fidyah, pada hari itu juga ketika dia tidak melaksanakan puasa.
+        Atau diakhirkan sampai hari terakhir bulan Ramadhan, sebagaimana dilakukan oleh sahabat
+        Anas bin Malik ketika beliau telah tua.Yang tidak boleh dilaksanakan adalah pembayaran
+        fidyah yang dilakukan sebelum Ramadhan. Misalnya: Ada orang yang sakit yang tidak dapat
+        diharapkan lagi kesembuhannya, kemudian ketika bulan Sya’ban telah datang, dia sudah lebih
+        dahulu membayar fidyah. Maka yang seperti ini tidak diperbolehkan. Ia harus menunggu sampai
+        bulan Ramadhan benar-benar telah masuk, barulah ia boleh membayarkan fidyah ketika hari itu
+        juga atau bisa ditumpuk di akhir Ramadhan. </string>
+</resources>
