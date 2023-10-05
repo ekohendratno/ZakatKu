@@ -3,17 +3,19 @@ package id.kopas.berkarya.zakatku;
 import android.app.ProgressDialog;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.support.annotation.Nullable;
-import android.support.design.widget.Snackbar;
-import android.support.design.widget.TextInputEditText;
-import android.support.v4.app.Fragment;
-import android.support.v7.widget.AppCompatButton;
+import androidx.annotation.Nullable;
+import androidx.appcompat.widget.AppCompatButton;
+import androidx.fragment.app.Fragment;
+
 import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import com.google.android.material.snackbar.Snackbar;
+import com.google.android.material.textfield.TextInputEditText;
 
 import id.kopas.berkarya.zakatku.utils.Fungsi;
 
@@ -70,7 +72,7 @@ public class ZakatFidyahFragment extends Fragment {
             public void onClick(View v) {
 
                 if(TextUtils.isEmpty(bayarfidyah_jumlahjiwafidyah.getText()) ) {
-                    Snackbar.make(v,"Jumlah jiwa harus diisi!",Snackbar.LENGTH_LONG).show();
+                    Snackbar.make(v,"Jumlah jiwa harus diisi!", Snackbar.LENGTH_LONG).show();
                 }else if( TextUtils.isEmpty(bayarfidyah_harga1porsimakan.getText()) ){
                     Snackbar.make(v,"Harga 1 porsi makan harus diisi!",Snackbar.LENGTH_LONG).show();
                 }else if( TextUtils.isEmpty(bayarfidyah_jumlahharitidakpuasa.getText()) ){
